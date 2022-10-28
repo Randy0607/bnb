@@ -1,4 +1,3 @@
-guillaume@ubuntu:~/AirBnB$ cat test_base_model.py
 #!/usr/bin/python3
 from models.base_model import BaseModel
 
