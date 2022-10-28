@@ -37,7 +37,7 @@ class HBNBCommand(cmd.Cmd):
     prompt = "(hbnb) "
     intro = """Welcome to AirBnb clone console(CLI)
     This console helps to manipulate objects used in this project
-    Source code: https://github.com/Timadey/AirBnB_clone.git
+    Source code: https://github.com/devrsk/AirBnB_clone.git
     Run `help` to show available command
     `help command` to show detailed usage of command
     """
