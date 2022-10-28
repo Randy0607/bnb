@@ -1,3 +1,0 @@
-[BaseModel] (2fe430e9-ecd3-4065-9212-e0cb3c971b95) {'id': '2fe430e9-ecd3-4065-9212-e0cb3c971b95', 'created_at': datet
-ime.datetime(2022, 10, 28, 2, 18, 7, 775372), 'updated_at': datetime.datetime(2022, 10, 28, 2, 18, 7, 775402), 'name'
-: 'My_First_Model', 'my_number': 89}
